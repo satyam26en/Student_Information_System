@@ -24,9 +24,9 @@ The application uses the following CSV files hosted on GitHub:
 
 ## Screenshots
 
-![App Screenshot 1](https://raw.githubusercontent.com/satyam26en/student-information-system/main/images/1.png)
-![App Screenshot 2](https://raw.githubusercontent.com/satyam26en/student-information-system/main/images/2.png)
-![App Screenshot 3](https://raw.githubusercontent.com/satyam26en/student-information-system/main/images/3.png)
+![App Screenshot 1](https://github.com/satyam26en/student-information-system/blob/main/1.png)
+![App Screenshot 2](https://github.com/satyam26en/student-information-system/blob/main/2.png)
+![App Screenshot 3](https://github.com/satyam26en/student-information-system/blob/main/3.png)
 
 ## Contributing
 
