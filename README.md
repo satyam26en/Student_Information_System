@@ -19,8 +19,8 @@ The objective of this project is to provide an interactive and user-friendly web
 
 The application uses the following CSV files hosted on GitHub:
 
-- [Elective Section Data](https://raw.githubusercontent.com/satyam26en/student-information-system/main/data/elective_sheet1.csv)
-- [Core Section Data](https://raw.githubusercontent.com/satyam26en/student-information-system/main/data/core_section_sheet1.csv)
+- [Elective Section Data](https://github.com/satyam26en/student-information-system/blob/main/elective%20-%20Sheet1%20(1).csv)
+- [Core Section Data](https://github.com/satyam26en/student-information-system/blob/main/core_section%20-%20Sheet1.csv)
 
 ## Screenshots
 
