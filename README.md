@@ -22,12 +22,22 @@ The application uses the following CSV files hosted on GitHub:
 - [Elective Section Data](https://github.com/satyam26en/student-information-system/blob/main/elective%20-%20Sheet1%20(1).csv)
 - [Core Section Data](https://github.com/satyam26en/student-information-system/blob/main/core_section%20-%20Sheet1.csv)
 
+## Try the app 
+Check out the live application [here](https://gkswyb65o6xma3pdnxk7gy.streamlit.app/).
+
 ## Screenshots
 
-![App Screenshot 1](https://github.com/satyam26en/student-information-system/blob/main/1.png)
-![App Screenshot 2](https://github.com/satyam26en/student-information-system/blob/main/2.png)
-![App Screenshot 3](https://github.com/satyam26en/student-information-system/blob/main/3.png)
+<p align="center" style="border: 4px solid black; padding: 10px;">
+  <img src="https://github.com/satyam26en/student-information-system/blob/main/1.png" alt="App Screenshot 1" style="max-width: 100%;" />
+</p>
+<p align="center" style="border: 4px solid black; padding: 10px;">
+  <img src="https://github.com/satyam26en/student-information-system/blob/main/2.png" alt="App Screenshot 2" style="max-width: 100%;" />
+</p>
+<p align="center" style="border: 4px solid black; padding: 10px;">
+  <img src="https://github.com/satyam26en/student-information-system/blob/main/3.png" alt="App Screenshot 3" style="max-width: 100%;" />
+</p>
 
+---
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
@@ -39,5 +49,9 @@ For any inquiries or support, please contact [satyamkumar26en@gmail.com].
 ## Repository
 
 [GitHub Repository](https://github.com/satyam26en/student-information-system)
+
+
+
+
 
 
